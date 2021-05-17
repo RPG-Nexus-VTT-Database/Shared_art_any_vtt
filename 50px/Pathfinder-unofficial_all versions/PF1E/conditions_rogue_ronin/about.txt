@@ -1,0 +1,68 @@
+Pathfinder 1e conditions
+
+Made with game-icons.net and subject to their licensing
+
+Their licensing is: https://creativecommons.org/licenses/by/3.0/
+
+This set should have an icon for every official condition in the official rules. Please let me know if I am mistaken.
+
+I do not play Pathfinder, but I have discussed this with some who do. I have broken out the background colors according to this categorization:
+
+-==Bodily Effects==-
+(yellowish)
+Exhausted
+Fatigued
+Incorporeal
+Nauseated
+Sickened
+
+-==Combat Effects==-
+(blue-green)
+Entangled
+Flat-Footed
+Grappled
+Pinned
+Prone
+
+-==Death & Dying==-
+(dark-grey)
+Bleed
+Dead
+Disabled
+Dying
+Stable
+Unconscious
+
+-==External Effects==-
+(light-green)
+Helpless
+Paralyzed
+Petrified
+Staggered
+Stunned
+
+-==Lowered Abilities==-
+(purple)
+Energy Drained
+
+-==Mental Effects==-
+(orange-brown)
+Confused
+Cowering
+Dazed
+Fascinated
+Frightened
+Panicked
+Shaken
+
+-==Other==-
+(pink-grey)
+Broken
+Sinking
+
+-==Perception==-
+(blue)
+Blinded
+Dazzled
+Deafened
+Invisible
